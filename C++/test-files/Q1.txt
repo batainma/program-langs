@@ -1,0 +1,327 @@
+Milwaukee, 359499, 4
+Madison, 146007, 4
+New Milwaukee, 64709, 4
+Green Bay, 62868, 4
+Kenosha, 59531, 4
+Racine, 47316, 4
+Appleton, 43574, 4
+Waukesha, 42431, 4
+Oshkosh, 39650, 4
+Eau Claire, 39530, 4
+Janesville, 38145, 4
+Brookfield, 37920, 4
+West Allis, 32622, 4
+Sheboygan, 29573, 4
+La Crosse, 27713, 4
+New Madison, 26280, 4
+Oak Creek, 25839, 4
+Wauwatosa, 25053, 4
+New Berlin, 23751, 4
+Fond du Lac, 23231, 4
+Greenfield, 22032, 4
+Wausau, 21117, 4
+Manitowoc, 20241, 4
+Beloit, 19962, 4
+Franklin, 19143, 4
+West Bend, 18647, 4
+Stevens Point, 16030, 4
+Sun Prairie, 15856, 4
+Neenah, 15300, 4
+River Falls, 15000, 4
+Superior, 14712, 4
+Watertown, 14316, 4
+De Pere, 14280, 4
+Wisconsin Rapids, 13776, 4
+Cudahy, 13701, 4
+Fitchburg, 13641, 4
+Muskego, 13032, 4
+South Milwaukee, 12693, 4
+Mequon, 12491, 4
+Oconomowoc, 11784, 4
+New New Milwaukee, 11647, 4
+Marshfield, 11471, 4
+New Green Bay, 11316, 4
+Onalaska, 10641, 4
+Middleton, 10465, 4
+Hudson, 9540, 4
+Menasha, 9370, 4
+Kaukauna, 9277, 4
+Baraboo, 9036, 4
+Menomonie, 8782, 4
+Hartford, 8534, 4
+New Racine, 8517, 4
+Delavan, 8463, 4
+Platteville, 8418, 4
+Antigo, 8234, 4
+Marinette, 8226, 4
+New Appleton, 7842, 4
+Ripon, 7733, 4
+Glendale, 6951, 4
+Plymouth, 6334, 4
+Two Rivers, 6324, 4
+New Richmond, 6282, 4
+Portage, 6195, 4
+Ashland, 6162, 4
+Cedarburg, 6162, 4
+Elkhorn, 6051, 4
+Reedsburg, 6009, 4
+Sparta, 5713, 4
+St. Francis, 5619, 4
+Shawano, 5583, 4
+Delafield, 5314, 4
+Rice Lake, 5063, 4
+Jefferson, 4784, 4
+Rhinelander, 4679, 4
+Sheboygan Falls, 4665, 4
+Monona, 4520, 4
+New London, 4377, 4
+New Greenfield, 3966, 4
+Waupaca, 3642, 4
+Barron, 3423, 4
+Oconto, 3385, 4
+New West Bend, 3356, 4
+Milton, 3327, 4
+Edgerton, 3276, 4
+Mayville, 2783, 4
+New Neenah, 2754, 4
+Black River Falls, 2717, 4
+Stanley, 2706, 4
+New Wisconsin Rapids, 2478, 4
+Clintonville, 2462, 4
+Algoma, 2376, 4
+Bloomer, 1911, 4
+Lodi, 1830, 4
+Kewaunee, 1771, 4
+Abbotsford, 1733, 4
+Juneau, 1689, 4
+Chetek, 1666, 4
+Mondovi, 1666, 4
+Cumberland, 1628, 4
+Spooner, 1609, 4
+Nekoosa, 1548, 4
+Mineral Point, 1492, 4
+Neillsville, 1478, 4
+Park Falls, 1477, 4
+Hayward, 1391, 4
+St. Croix Falls, 1280, 4
+Niagara, 1218, 4
+Augusta, 1163, 4
+Hurley, 1161, 4
+Durand, 1158, 4
+Crandon, 1152, 4
+Weyauwega, 1140, 4
+Blair, 1025, 4
+New St. Francis, 1011, 4
+Independence, 1002, 4
+Colby, 999, 4
+New Delafield, 956, 4
+Marion, 945, 4
+Whitehall, 935, 4
+Eagle River, 839, 4
+Shell Lake, 808, 4
+Elroy, 778, 4
+Hillsboro, 765, 4
+Loyal, 756, 4
+Glenwood City, 745, 4
+Shullsburg, 735, 4
+Princeton, 729, 4
+Pittsville, 656, 4
+Greenwood, 615, 4
+Buffalo City, 614, 4
+New Oconto, 609, 4
+New New West Bend, 603, 4
+New Milton, 599, 4
+New Edgerton, 589, 4
+Green Lake, 576, 4
+Owen, 564, 4
+Fountain City, 516, 4
+Montreal, 484, 4
+New Algoma, 426, 4
+Alma, 421, 4
+New Medford, 420, 4
+Mellen, 394, 4
+New Waterloo, 360, 4
+New Lodi, 330, 4
+New Kewaunee, 318, 4
+New Abbotsford, 312, 4
+New Chetek, 300, 4
+New Mondovi, 300, 4
+New Cumberland, 292, 4
+New Mineral Point, 268, 4
+Bayfield, 263, 4
+New St. Croix Falls, 230, 4
+New Niagara, 219, 4
+New Wautoma, 216, 4
+New Augusta, 209, 4
+New Blair, 183, 4
+New Independence, 180, 4
+New Marion, 170, 4
+New Whitehall, 168, 4
+New Eagle River, 150, 4
+New Hillsboro, 138, 4
+New Loyal, 135, 4
+New Glenwood City, 134, 4
+New Shullsburg, 132, 4
+New Princeton, 130, 4
+New Pittsville, 117, 4
+New Greenwood, 111, 4
+New Buffalo City, 110, 4
+New New Oconto, 109, 4
+New New Edgerton, 105, 4
+New Green Lake, 103, 4
+New Owen, 102, 4
+New Fountain City, 92, 4
+New Montreal, 87, 4
+New New Algoma, 76, 4
+New Alma, 75, 4
+New New Medford, 75, 4
+New Mellen, 70, 4
+New New Waterloo, 64, 4
+New New Lodi, 59, 4
+New New Kewaunee, 57, 4
+New New Abbotsford, 55, 4
+New New Chetek, 54, 4
+New New Mondovi, 54, 4
+New New Cumberland, 52, 4
+New New Mineral Point, 48, 4
+New Bayfield, 47, 4
+New New Niagara, 39, 4
+New New Wautoma, 38, 4
+New New Augusta, 37, 4
+New New Independence, 33, 4
+New New Marion, 30, 4
+New New Whitehall, 30, 4
+New New Glenwood City, 24, 4
+New New Loyal, 24, 4
+New New Shullsburg, 24, 4
+New New Princeton, 23, 4
+New New Pittsville, 21, 4
+New New New Oconto, 19, 4
+New New New Edgerton, 18, 4
+New New Owen, 18, 4
+New New Fountain City, 16, 4
+New New Montreal, 15, 4
+New New Alma, 13, 4
+New New New Algoma, 13, 4
+New New Mellen, 12, 4
+New New New Kewaunee, 10, 4
+New New New Lodi, 10, 4
+New New New Abbotsford, 9, 4
+New New New Chetek, 9, 4
+New New New Cumberland, 9, 4
+New New New Mondovi, 9, 4
+New New Bayfield, 8, 4
+New New New Augusta, 6, 4
+New New New Blair, 6, 4
+New New New Independence, 6, 4
+New New New Marion, 6, 4
+New New New Niagara, 6, 4
+New New New Wautoma, 6, 4
+New New New Whitehall, 5, 4
+New New New Loyal, 4, 4
+New New New Fountain City, 3, 4
+New New New Glenwood City, 3, 4
+New New New Montreal, 3, 4
+New New New New Edgerton, 3, 4
+New New New New Oconto, 3, 4
+New New New Owen, 3, 4
+New New New Pittsville, 3, 4
+New New New Princeton, 3, 4
+New New New Mellen, 2, 4
+New New New New Algoma, 2, 4
+New New New New Abbotsford, 1, 4
+New New New New Chetek, 1, 4
+New New New New Cumberland, 1, 4
+New New New New Kewaunee, 1, 4
+New New New New Lodi, 1, 4
+New New New Bayfield, 0, 4
+New New New New Augusta, 0, 4
+New New New New Bayfield, 0, 4
+New New New New Fountain City, 0, 4
+New New New New Glenwood City, 0, 4
+New New New New Independence, 0, 4
+New New New New Marion, 0, 4
+New New New New Mellen, 0, 4
+New New New New Montreal, 0, 4
+New New New New New Abbotsford, 0, 4
+New New New New New Augusta, 0, 4
+New New New New New Bayfield, 0, 4
+New New New New New Chetek, 0, 4
+New New New New New Edgerton, 0, 4
+New New New New New Fountain City, 0, 4
+New New New New New Glenwood City, 0, 4
+New New New New New Independence, 0, 4
+New New New New New Kewaunee, 0, 4
+New New New New New Lodi, 0, 4
+New New New New New Marion, 0, 4
+New New New New New Mellen, 0, 4
+New New New New New Montreal, 0, 4
+New New New New New New Abbotsford, 0, 4
+New New New New New New Augusta, 0, 4
+New New New New New New Bayfield, 0, 4
+New New New New New New Chetek, 0, 4
+New New New New New New Fountain City, 0, 4
+New New New New New New Glenwood City, 0, 4
+New New New New New New Kewaunee, 0, 4
+New New New New New New Marion, 0, 4
+New New New New New New Mellen, 0, 4
+New New New New New New Montreal, 0, 4
+New New New New New New New Abbotsford, 0, 4
+New New New New New New New Augusta, 0, 4
+New New New New New New New Bayfield, 0, 4
+New New New New New New New Chetek, 0, 4
+New New New New New New New Kewaunee, 0, 4
+New New New New New New New Marion, 0, 4
+New New New New New New New Mellen, 0, 4
+New New New New New New New Montreal, 0, 4
+New New New New New New New New Abbotsford, 0, 4
+New New New New New New New New Augusta, 0, 4
+New New New New New New New New Bayfield, 0, 4
+New New New New New New New New Chetek, 0, 4
+New New New New New New New New Kewaunee, 0, 4
+New New New New New New New New Marion, 0, 4
+New New New New New New New New Mellen, 0, 4
+New New New New New New New New Montreal, 0, 4
+New New New New New New New New New Augusta, 0, 4
+New New New New New New New New New Bayfield, 0, 4
+New New New New New New New New New Chetek, 0, 4
+New New New New New New New New New Kewaunee, 0, 4
+New New New New New New New New New Mellen, 0, 4
+New New New New New New New New New Montreal, 0, 4
+New New New New New New New New New New Bayfield, 0, 4
+New New New New New New New New New New Montreal, 0, 4
+New New New New New New New New New New New Bayfield, 0, 4
+New New New New New New New New New New New Montreal, 0, 4
+New New New New New New New New New New New New Montreal, 0, 4
+New New New New New New New New New New New New Princeton, 0, 4
+New New New New New New New New New New New Niagara, 0, 4
+New New New New New New New New New New New Princeton, 0, 4
+New New New New New New New New New New Niagara, 0, 4
+New New New New New New New New New New Princeton, 0, 4
+New New New New New New New New New Niagara, 0, 4
+New New New New New New New New New Princeton, 0, 4
+New New New New New New New New New Wautoma, 0, 4
+New New New New New New New New Niagara, 0, 4
+New New New New New New New New Owen, 0, 4
+New New New New New New New New Princeton, 0, 4
+New New New New New New New New Wautoma, 0, 4
+New New New New New New New Niagara, 0, 4
+New New New New New New New Owen, 0, 4
+New New New New New New New Pittsville, 0, 4
+New New New New New New New Princeton, 0, 4
+New New New New New New New Wautoma, 0, 4
+New New New New New New Niagara, 0, 4
+New New New New New New Owen, 0, 4
+New New New New New New Pittsville, 0, 4
+New New New New New New Princeton, 0, 4
+New New New New New New Wautoma, 0, 4
+New New New New New Niagara, 0, 4
+New New New New New Owen, 0, 4
+New New New New New Pittsville, 0, 4
+New New New New New Princeton, 0, 4
+New New New New New Wautoma, 0, 4
+New New New New Niagara, 0, 4
+New New New New Owen, 0, 4
+New New New New Pittsville, 0, 4
+New New New New Princeton, 0, 4
+New New New New Wautoma, 0, 4
